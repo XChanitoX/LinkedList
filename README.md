@@ -1,2 +1,2 @@
 # LinkedList
-Implementación de una lista enlazada 
+Implementación de una Simple Linked List con insercciones en forma ascendente.
